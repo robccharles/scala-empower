@@ -1,3 +1,3 @@
-# scala-empower
+#scala-empower
 
-Practice and example the Scala
+Practices and examples on Scala language
